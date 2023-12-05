@@ -97,4 +97,3 @@ int main() {
     }
     std::cout << "Sum: " << sum;
 }
-
