@@ -47,6 +47,7 @@ int main() {
             }
         }
         sum += (std::pow(2, wins - 1));
+        std::cout << "Matches: " << wins << std::endl;
     }
     std::cout << "Sum: " << sum << std::endl;
 }
